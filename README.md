@@ -11,3 +11,6 @@ I learned about following things while designing the app:
 3.	Making connection and sending request to API
 4.	Constraint layout intricacies
 5.	Using different icons for weather conditions 
+
+# Video Walkthrough
+<a href="https://imgur.com/6OiTq6c"><img src="https://i.imgur.com/6OiTq6c.gif" title="source: imgur.com" width="300" height="500" /></a>
