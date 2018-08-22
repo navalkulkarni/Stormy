@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="error_title">Oops! Sorry</string>
+    <string name="error_msg">There was an error. Please Try Again</string>
+    <string name="error_button_ok_text">Ok</string>
+    <string name="network_unavailable_msg">Sorry, Check your internet connection</string>
+    <string name="darkSkymsg"><a href="https://darksky.net/poweredby">Powered By Dark Sky</a></string>
+</resources>
